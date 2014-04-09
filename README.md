@@ -1,0 +1,4 @@
+fuzzyquad
+=========
+
+pure test
